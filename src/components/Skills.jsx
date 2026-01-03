@@ -97,15 +97,13 @@ const Skills = () => {
           </h3>
           <div className="flex flex-wrap justify-center gap-3">
             {[
-              'HTML5',
-              'CSS3',
-              'JavaScript',
-              'Next.js',
-              'Firebase',
-              'Unity',
-              'C#',
-              'ShaderLab',
+              'GenAI',
               'Git',
+              'GitHub',
+              'Unity',
+              'Firebase',
+              'JavaScript',
+              'C#',
             ].map((tech) => (
               <motion.span
                 key={tech}
