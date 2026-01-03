@@ -36,7 +36,7 @@ const Contact = () => {
     {
       name: 'Email',
       icon: Mail,
-      href: 'mailto:sanskriti17may@gmail.com',
+      href: 'mailto:abc@gmail.com',
       color: 'hover:text-red-500',
     },
     {
