@@ -159,7 +159,7 @@ const Contact = () => {
                       required
                       rows={5}
                       className="w-full px-4 py-3 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-accent-500 focus:border-transparent outline-none transition-all resize-none text-gray-900 dark:text-gray-100"
-                      placeholder="Your message..."
+                      placeholder="abc@gmail.com"
                     />
                   </div>
 

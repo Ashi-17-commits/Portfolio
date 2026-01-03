@@ -7,7 +7,8 @@ const Skills = () => {
   const isInView = useInView(ref, { once: true, margin: '-100px' });
 
   const skills = [
-    { name: 'JavaScript', level: 85, color: 'from-yellow-500 to-orange-500' },
+    { name: 'JavaScript', level: 50, color: 'from-yellow-500 to-orange-500' },
+    { name: 'Java', level: 60, color: 'from-orange-600 to-red-600' },
     { name: 'Python', level: 85, color: 'from-blue-400 to-indigo-500' },
     { name: 'Tailwind CSS', level: 90, color: 'from-cyan-500 to-teal-500' },
     { name: 'Git/GitHub', level: 85, color: 'from-gray-700 to-gray-900' },
